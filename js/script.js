@@ -131,8 +131,8 @@
         year: 2022,
         month: 3,
         day: 1,
-        hour: 00,
-        minute: 00
+        hour: 10,
+        minute: 30
     })
 
 })(jQuery);
